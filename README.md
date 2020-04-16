@@ -1,0 +1,1 @@
+# vue-jsx-object-array-returns-undefined
